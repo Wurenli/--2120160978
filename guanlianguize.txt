@@ -1,0 +1,258 @@
+otc alterations permit-->issued,8conf:0.861111111111
+8-->issued,otc alterations permitconf:0.861111111111
+issued-->8,otc alterations permitconf:0.939393939394
+otc alterations permit-->St,8conf:0.638888888889
+8-->St,otc alterations permitconf:0.638888888889
+St-->8,otc alterations permitconf:0.821428571429
+5-->1,otc alterations permitconf:0.733333333333
+1-->street space,Stconf:0.40625
+St-->street space,1conf:0.464285714286
+street space-->St,1conf:0.590909090909
+otc alterations permit-->street space,1conf:0.527777777778
+1-->street space,otc alterations permitconf:0.59375
+street space-->1,otc alterations permitconf:0.863636363636
+8-->street space,issuedconf:0.611111111111
+issued-->street space,8conf:0.666666666667
+street space-->issued,8conf:1.0
+St-->street space,8conf:0.5
+street space-->St,8conf:0.636363636364
+issued-->street space,Stconf:0.424242424242
+St-->street space,issuedconf:0.5
+street space-->St,issuedconf:0.636363636364
+Av-->issued,otc alterations permitconf:0.75
+otc alterations permit-->issued,1conf:0.75
+1-->issued,otc alterations permitconf:0.84375
+issued-->1,otc alterations permitconf:0.818181818182
+otc alterations permit-->St,1conf:0.583333333333
+1-->St,otc alterations permitconf:0.65625
+St-->1,otc alterations permitconf:0.75
+2-->8,otc alterations permitconf:0.625
+5-->St,8conf:0.6
+2-->8,1conf:0.5625
+0-->issued,otc alterations permitconf:0.625
+5-->8,otc alterations permitconf:0.866666666667
+0-->1,otc alterations permitconf:0.5625
+Av-->8,otc alterations permitconf:0.916666666667
+otc alterations permit-->street space,8conf:0.611111111111
+8-->street space,otc alterations permitconf:0.611111111111
+street space-->8,otc alterations permitconf:1.0
+otc alterations permit-->St,issuedconf:0.555555555556
+issued-->St,otc alterations permitconf:0.606060606061
+St-->issued,otc alterations permitconf:0.714285714286
+8-->St,issuedconf:0.555555555556
+issued-->St,8conf:0.606060606061
+St-->issued,8conf:0.714285714286
+otc alterations permit-->0,8conf:0.416666666667
+8-->0,otc alterations permitconf:0.416666666667
+0-->8,otc alterations permitconf:0.9375
+St-->street space,otc alterations permitconf:0.5
+street space-->St,otc alterations permitconf:0.636363636364
+0-->issued,8conf:0.625
+otc alterations permit-->8,1conf:0.833333333333
+8-->1,otc alterations permitconf:0.833333333333
+1-->8,otc alterations permitconf:0.9375
+2-->1,otc alterations permitconf:0.5625
+5-->St,otc alterations permitconf:0.6
+8-->St,1conf:0.583333333333
+1-->St,8conf:0.65625
+St-->8,1conf:0.75
+8-->issued,1conf:0.75
+1-->issued,8conf:0.84375
+issued-->8,1conf:0.818181818182
+0-->8,1conf:0.5625
+otc alterations permit-->street space,issuedconf:0.611111111111
+issued-->street space,otc alterations permitconf:0.666666666667
+street space-->issued,otc alterations permitconf:1.0
+1-->St,issuedconf:0.625
+issued-->St,1conf:0.606060606061
+St-->issued,1conf:0.714285714286
+1-->street space,8conf:0.59375
+8-->street space,1conf:0.527777777778
+street space-->1,8conf:0.863636363636
+1-->street space,issuedconf:0.59375
+issued-->street space,1conf:0.575757575758
+street space-->issued,1conf:0.863636363636
+5-->1,8conf:0.733333333333
+Av-->issued,8conf:0.75
+0,otc alterations permit-->issued,8conf:0.666666666667
+0,8-->issued,otc alterations permitconf:0.666666666667
+0,issued-->8,otc alterations permitconf:0.909090909091
+St,otc alterations permit-->issued,1conf:0.826086956522
+1,otc alterations permit-->St,issuedconf:0.633333333333
+St,1-->issued,otc alterations permitconf:0.863636363636
+issued,otc alterations permit-->St,1conf:0.612903225806
+St,issued-->1,otc alterations permitconf:0.863636363636
+issued,1-->St,otc alterations permitconf:0.678571428571
+St,8-->street space,1conf:0.565217391304
+street space,8-->St,1conf:0.590909090909
+street space,St-->8,1conf:0.928571428571
+8,1-->street space,Stconf:0.433333333333
+St,1-->street space,8conf:0.590909090909
+street space,1-->St,8conf:0.684210526316
+2,otc alterations permit-->8,1conf:0.9
+2,8-->1,otc alterations permitconf:0.9
+2,1-->8,otc alterations permitconf:0.818181818182
+St,8-->issued,1conf:0.826086956522
+8,1-->St,issuedconf:0.633333333333
+St,1-->issued,8conf:0.863636363636
+issued,8-->St,1conf:0.612903225806
+St,issued-->8,1conf:0.863636363636
+issued,1-->St,8conf:0.678571428571
+street space,8-->issued,1conf:0.863636363636
+8,1-->street space,issuedconf:0.633333333333
+street space,1-->issued,8conf:1.0
+issued,8-->street space,1conf:0.612903225806
+street space,issued-->8,1conf:0.863636363636
+issued,1-->street space,8conf:0.678571428571
+street space,St-->issued,1conf:0.928571428571
+St,1-->street space,issuedconf:0.590909090909
+street space,1-->St,issuedconf:0.684210526316
+St,issued-->street space,1conf:0.590909090909
+street space,issued-->St,1conf:0.590909090909
+issued,1-->street space,Stconf:0.464285714286
+8,otc alterations permit-->street space,issuedconf:0.611111111111
+street space,otc alterations permit-->issued,8conf:1.0
+street space,8-->issued,otc alterations permitconf:1.0
+issued,otc alterations permit-->street space,8conf:0.709677419355
+issued,8-->street space,otc alterations permitconf:0.709677419355
+street space,issued-->8,otc alterations permitconf:1.0
+8,otc alterations permit-->issued,1conf:0.75
+1,otc alterations permit-->issued,8conf:0.9
+8,1-->issued,otc alterations permitconf:0.9
+issued,otc alterations permit-->8,1conf:0.870967741935
+issued,8-->1,otc alterations permitconf:0.870967741935
+issued,1-->8,otc alterations permitconf:0.964285714286
+5,otc alterations permit-->8,1conf:0.846153846154
+5,8-->1,otc alterations permitconf:0.846153846154
+5,1-->8,otc alterations permitconf:1.0
+8,otc alterations permit-->street space,1conf:0.527777777778
+street space,otc alterations permit-->8,1conf:0.863636363636
+street space,8-->1,otc alterations permitconf:0.863636363636
+1,otc alterations permit-->street space,8conf:0.633333333333
+8,1-->street space,otc alterations permitconf:0.633333333333
+street space,1-->8,otc alterations permitconf:1.0
+8,otc alterations permit-->St,1conf:0.583333333333
+St,otc alterations permit-->8,1conf:0.913043478261
+St,8-->1,otc alterations permitconf:0.913043478261
+1,otc alterations permit-->St,8conf:0.7
+8,1-->St,otc alterations permitconf:0.7
+St,1-->8,otc alterations permitconf:0.954545454545
+St,8-->street space,issuedconf:0.608695652174
+street space,8-->St,issuedconf:0.636363636364
+street space,St-->issued,8conf:1.0
+issued,8-->street space,Stconf:0.451612903226
+St,issued-->street space,8conf:0.636363636364
+street space,issued-->St,8conf:0.636363636364
+Av,otc alterations permit-->issued,8conf:0.818181818182
+Av,8-->issued,otc alterations permitconf:0.818181818182
+Av,issued-->8,otc alterations permitconf:1.0
+St,otc alterations permit-->street space,8conf:0.608695652174
+St,8-->street space,otc alterations permitconf:0.608695652174
+street space,otc alterations permit-->St,8conf:0.636363636364
+street space,8-->St,otc alterations permitconf:0.636363636364
+street space,St-->8,otc alterations permitconf:1.0
+0,otc alterations permit-->8,1conf:0.6
+0,8-->1,otc alterations permitconf:0.6
+0,1-->8,otc alterations permitconf:0.9
+St,otc alterations permit-->street space,1conf:0.565217391304
+street space,otc alterations permit-->St,1conf:0.590909090909
+street space,St-->1,otc alterations permitconf:0.928571428571
+1,otc alterations permit-->street space,Stconf:0.433333333333
+St,1-->street space,otc alterations permitconf:0.590909090909
+street space,1-->St,otc alterations permitconf:0.684210526316
+St,otc alterations permit-->street space,issuedconf:0.608695652174
+street space,otc alterations permit-->St,issuedconf:0.636363636364
+street space,St-->issued,otc alterations permitconf:1.0
+issued,otc alterations permit-->street space,Stconf:0.451612903226
+St,issued-->street space,otc alterations permitconf:0.636363636364
+street space,issued-->St,otc alterations permitconf:0.636363636364
+street space,otc alterations permit-->issued,1conf:0.863636363636
+1,otc alterations permit-->street space,issuedconf:0.633333333333
+street space,1-->issued,otc alterations permitconf:1.0
+issued,otc alterations permit-->street space,1conf:0.612903225806
+street space,issued-->1,otc alterations permitconf:0.863636363636
+issued,1-->street space,otc alterations permitconf:0.678571428571
+8,otc alterations permit-->St,issuedconf:0.555555555556
+St,otc alterations permit-->issued,8conf:0.869565217391
+St,8-->issued,otc alterations permitconf:0.869565217391
+issued,otc alterations permit-->St,8conf:0.645161290323
+issued,8-->St,otc alterations permitconf:0.645161290323
+St,issued-->8,otc alterations permitconf:0.909090909091
+5,otc alterations permit-->St,8conf:0.692307692308
+5,8-->St,otc alterations permitconf:0.692307692308
+St,5-->8,otc alterations permitconf:0.818181818182
+street space,8,otc alterations permit-->St,issuedconf:0.636363636364
+St,8,otc alterations permit-->street space,issuedconf:0.608695652174
+street space,St,otc alterations permit-->issued,8conf:1.0
+street space,St,8-->issued,otc alterations permitconf:1.0
+issued,8,otc alterations permit-->street space,Stconf:0.451612903226
+street space,issued,otc alterations permit-->St,8conf:0.636363636364
+street space,issued,8-->St,otc alterations permitconf:0.636363636364
+St,issued,otc alterations permit-->street space,8conf:0.7
+St,issued,8-->street space,otc alterations permitconf:0.7
+street space,St,issued-->8,otc alterations permitconf:1.0
+street space,St,otc alterations permit-->issued,1conf:0.928571428571
+street space,1,otc alterations permit-->St,issuedconf:0.684210526316
+St,1,otc alterations permit-->street space,issuedconf:0.619047619048
+street space,St,1-->issued,otc alterations permitconf:1.0
+street space,issued,otc alterations permit-->St,1conf:0.590909090909
+St,issued,otc alterations permit-->street space,1conf:0.65
+street space,St,issued-->1,otc alterations permitconf:0.928571428571
+issued,1,otc alterations permit-->street space,Stconf:0.481481481481
+street space,issued,1-->St,otc alterations permitconf:0.684210526316
+St,issued,1-->street space,otc alterations permitconf:0.65
+street space,8,otc alterations permit-->issued,1conf:0.863636363636
+8,1,otc alterations permit-->street space,issuedconf:0.633333333333
+street space,1,otc alterations permit-->issued,8conf:1.0
+street space,8,1-->issued,otc alterations permitconf:1.0
+issued,8,otc alterations permit-->street space,1conf:0.612903225806
+street space,issued,otc alterations permit-->8,1conf:0.863636363636
+street space,issued,8-->1,otc alterations permitconf:0.863636363636
+issued,1,otc alterations permit-->street space,8conf:0.703703703704
+issued,8,1-->street space,otc alterations permitconf:0.703703703704
+street space,issued,1-->8,otc alterations permitconf:1.0
+St,8,otc alterations permit-->issued,1conf:0.826086956522
+8,1,otc alterations permit-->St,issuedconf:0.633333333333
+St,1,otc alterations permit-->issued,8conf:0.904761904762
+St,8,1-->issued,otc alterations permitconf:0.904761904762
+issued,8,otc alterations permit-->St,1conf:0.612903225806
+St,issued,otc alterations permit-->8,1conf:0.95
+St,issued,8-->1,otc alterations permitconf:0.95
+issued,1,otc alterations permit-->St,8conf:0.703703703704
+issued,8,1-->St,otc alterations permitconf:0.703703703704
+St,issued,1-->8,otc alterations permitconf:0.95
+street space,8,otc alterations permit-->St,1conf:0.590909090909
+St,8,otc alterations permit-->street space,1conf:0.565217391304
+street space,St,otc alterations permit-->8,1conf:0.928571428571
+street space,St,8-->1,otc alterations permitconf:0.928571428571
+8,1,otc alterations permit-->street space,Stconf:0.433333333333
+street space,1,otc alterations permit-->St,8conf:0.684210526316
+street space,8,1-->St,otc alterations permitconf:0.684210526316
+St,1,otc alterations permit-->street space,8conf:0.619047619048
+St,8,1-->street space,otc alterations permitconf:0.619047619048
+street space,St,1-->8,otc alterations permitconf:1.0
+street space,St,8-->issued,1conf:0.928571428571
+street space,8,1-->St,issuedconf:0.684210526316
+St,8,1-->street space,issuedconf:0.619047619048
+street space,St,1-->issued,8conf:1.0
+street space,issued,8-->St,1conf:0.590909090909
+St,issued,8-->street space,1conf:0.65
+street space,St,issued-->8,1conf:0.928571428571
+issued,8,1-->street space,Stconf:0.481481481481
+street space,issued,1-->St,8conf:0.684210526316
+St,issued,1-->street space,8conf:0.65
+street space,St,8,otc alterations permit-->issued,1conf:0.928571428571
+street space,8,1,otc alterations permit-->St,issuedconf:0.684210526316
+St,8,1,otc alterations permit-->street space,issuedconf:0.619047619048
+street space,St,1,otc alterations permit-->issued,8conf:1.0
+street space,St,8,1-->issued,otc alterations permitconf:1.0
+street space,issued,8,otc alterations permit-->St,1conf:0.590909090909
+St,issued,8,otc alterations permit-->street space,1conf:0.65
+street space,St,issued,otc alterations permit-->8,1conf:0.928571428571
+street space,St,issued,8-->1,otc alterations permitconf:0.928571428571
+issued,8,1,otc alterations permit-->street space,Stconf:0.481481481481
+street space,issued,1,otc alterations permit-->St,8conf:0.684210526316
+street space,issued,8,1-->St,otc alterations permitconf:0.684210526316
+St,issued,1,otc alterations permit-->street space,8conf:0.684210526316
+St,issued,8,1-->street space,otc alterations permitconf:0.684210526316
+street space,St,issued,1-->8,otc alterations permitconf:1.0
